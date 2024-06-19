@@ -331,7 +331,7 @@ https://github.com/P4GAN/Chess-Challenge 32
 https://github.com/jeroeness/Chess-Challenge 32
 https://github.com/MitchellShapiro/Chess-Challenge 31
 https://github.com/JacquesRW/Chess-Challenge 31
-https://github.com/dr-vortex/Chess-Challenge 31
+https://github.com/james-pre/Chess-Challenge 31
 https://github.com/yuriko192/Chess-Challenge 30
 https://github.com/behindcurtain3/Chess-Challenge 30
 https://github.com/MathewHDYT/Chess-Challenge 30
